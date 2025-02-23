@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mukul966
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning android
+- 👀 I’m interested in Backend development using node js
+- 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me -singmukul567@gmail.com
 
